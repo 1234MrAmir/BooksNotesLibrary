@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{background-image: linear-gradient(to top, #aaaab9, #b3c1cb, #c5d6d8, #dfeae4, #fbfdf5);overflow-y: hidden;} */
+.navbar .container-fluid .editing{font-size:25px;font-variant: small-caps;font-style: italic;font-weight: 600;}
+.navbar .container-fluid .editing::first-letter{color: red;}
+.navbar .container-fluid a{color:white !important;}
+.navbar .container-fluid .dropdown ul li a{color: black !important;}
